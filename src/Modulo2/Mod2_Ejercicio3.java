@@ -30,9 +30,9 @@ public class Mod2_Ejercicio3 {
 		//correspondiente, asignándole un valor a las variables por ejemplo short s=25; int I = 1200,
 		//finalmente se deberán imprimir en pantalla.
 		
-		int b1= (short)s;
+		b= (byte)s;
 		l=(long)i;
-		b1=(int)i;
+		b=(byte)i;
 		s=(short)i;
 	}
 
