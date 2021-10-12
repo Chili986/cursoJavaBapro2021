@@ -1,4 +1,4 @@
-package operacionesLogicas;
+package modulo3;
 
 import java.awt.EventQueue;
 

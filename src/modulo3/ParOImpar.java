@@ -1,8 +1,8 @@
-package operacionesLogicas;
+package modulo3;
 
 import java.util.Scanner;
 
-public class condicion {
+public class ParOImpar {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
