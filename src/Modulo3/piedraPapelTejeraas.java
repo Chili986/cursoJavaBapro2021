@@ -7,7 +7,7 @@ public class piedraPapelTejeraas {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-			System.out.println("Piedra=0, Papel=1 & tijeras=2");
+			System.out.println("Piedra, Papel & tijeras");
 		Scanner sc = new Scanner (System.in);
 		
 		 System.out.println("el jugador1:"); 
