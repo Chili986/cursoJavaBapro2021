@@ -20,7 +20,7 @@ public class SumaDePaloresPares {
 	       	 
 	    	}
 	    	
-	    	System.out.println(" Otra tabla de:");
+	    	System.out.println("\n Otra tabla de:");
 	    	  int num1 = sc.nextInt();
 	    	  
 	    	for (int i = 1;i<=10 ;i = i + 2) {
